@@ -1,0 +1,134 @@
+Bag_ID,Object_Name,Material,Detected_Metal_Type,Detector_Signal_Level,Sharp_Object,Metal_Presence,Electronic_Device
+BAG_001,Power Bank,Metal,Lithium Alloy,High,No,Yes,Yes
+BAG_001,Water Bottle,Plastic,None,High,No,No,No
+BAG_001,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_002,Laptop,Metal,Aluminum,Low,No,Yes,Yes
+BAG_002,Watch,Metal,Stainless Steel,High,No,Yes,No
+BAG_002,Scissors,Metal,Steel,High,Yes,Yes,No
+BAG_002,Watch,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_002,Knife,Metal,Steel,Low,Yes,Yes,No
+BAG_002,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_003,Phone,Metal,Aluminum,Low,No,Yes,Yes
+BAG_003,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_003,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_003,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_004,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_004,Water Bottle,Plastic,None,High,No,No,No
+BAG_004,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_005,Laptop,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_005,Laptop,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_005,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_005,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_006,Phone,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_006,Scissors,Metal,Steel,Low,Yes,Yes,No
+BAG_006,Scissors,Metal,Steel,High,Yes,Yes,No
+BAG_006,Knife,Metal,Steel,High,Yes,Yes,No
+BAG_006,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_007,Watch,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_007,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_007,Power Bank,Metal,Lithium Alloy,High,No,Yes,Yes
+BAG_007,Phone,Metal,Aluminum,High,No,Yes,Yes
+BAG_008,Knife,Metal,Steel,Low,Yes,Yes,No
+BAG_008,Phone,Metal,Aluminum,High,No,Yes,Yes
+BAG_008,Knife,Metal,Steel,Low,Yes,Yes,No
+BAG_008,Watch,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_008,Laptop,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_009,Knife,Metal,Steel,Low,Yes,Yes,No
+BAG_009,Watch,Metal,Stainless Steel,High,No,Yes,No
+BAG_009,Watch,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_009,Scissors,Metal,Steel,High,Yes,Yes,No
+BAG_010,Laptop,Metal,Aluminum,High,No,Yes,Yes
+BAG_010,Water Bottle,Plastic,None,Medium,No,No,No
+BAG_010,Watch,Metal,Stainless Steel,Low,No,Yes,No
+BAG_010,Keys,Metal,Stainless Steel,Low,No,Yes,No
+BAG_011,Laptop,Metal,Aluminum,Low,No,Yes,Yes
+BAG_011,Book,Paper,None,High,No,No,No
+BAG_011,Watch,Metal,Stainless Steel,High,No,Yes,No
+BAG_011,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_011,Phone,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_011,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_012,Power Bank,Metal,Lithium Alloy,Medium,No,Yes,Yes
+BAG_012,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_012,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_012,Power Bank,Metal,Lithium Alloy,Medium,No,Yes,Yes
+BAG_012,Phone,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_013,Laptop,Metal,Aluminum,Low,No,Yes,Yes
+BAG_013,Laptop,Metal,Aluminum,High,No,Yes,Yes
+BAG_013,Knife,Metal,Steel,High,Yes,Yes,No
+BAG_013,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_013,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_014,Power Bank,Metal,Lithium Alloy,High,No,Yes,Yes
+BAG_014,Knife,Metal,Steel,Low,Yes,Yes,No
+BAG_014,Scissors,Metal,Steel,Low,Yes,Yes,No
+BAG_014,Water Bottle,Plastic,None,Medium,No,No,No
+BAG_014,Umbrella,Metal,Steel,Low,No,Yes,No
+BAG_015,Power Bank,Metal,Lithium Alloy,Medium,No,Yes,Yes
+BAG_015,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_015,Phone,Metal,Aluminum,Low,No,Yes,Yes
+BAG_015,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_015,Watch,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_015,Book,Paper,None,Medium,No,No,No
+BAG_016,Book,Paper,None,Low,No,No,No
+BAG_016,Watch,Metal,Stainless Steel,High,No,Yes,No
+BAG_016,Umbrella,Metal,Steel,Low,No,Yes,No
+BAG_017,Book,Paper,None,Medium,No,No,No
+BAG_017,Book,Paper,None,High,No,No,No
+BAG_017,Scissors,Metal,Steel,High,Yes,Yes,No
+BAG_018,Power Bank,Metal,Lithium Alloy,High,No,Yes,Yes
+BAG_018,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_018,Water Bottle,Plastic,None,High,No,No,No
+BAG_019,Watch,Metal,Stainless Steel,Low,No,Yes,No
+BAG_019,Knife,Metal,Steel,High,Yes,Yes,No
+BAG_019,Book,Paper,None,Medium,No,No,No
+BAG_019,Knife,Metal,Steel,High,Yes,Yes,No
+BAG_020,Laptop,Metal,Aluminum,Low,No,Yes,Yes
+BAG_020,Watch,Metal,Stainless Steel,High,No,Yes,No
+BAG_020,Book,Paper,None,High,No,No,No
+BAG_020,Laptop,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_020,Phone,Metal,Aluminum,High,No,Yes,Yes
+BAG_020,Umbrella,Metal,Steel,Medium,No,Yes,No
+BAG_021,Knife,Metal,Steel,Low,Yes,Yes,No
+BAG_021,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_021,Watch,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_021,Power Bank,Metal,Lithium Alloy,Medium,No,Yes,Yes
+BAG_021,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_022,Keys,Metal,Stainless Steel,Low,No,Yes,No
+BAG_022,Umbrella,Metal,Steel,Low,No,Yes,No
+BAG_022,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_022,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_023,Phone,Metal,Aluminum,Low,No,Yes,Yes
+BAG_023,Scissors,Metal,Steel,Low,Yes,Yes,No
+BAG_023,Book,Paper,None,Low,No,No,No
+BAG_023,Scissors,Metal,Steel,High,Yes,Yes,No
+BAG_023,Water Bottle,Plastic,None,Medium,No,No,No
+BAG_023,Book,Paper,None,High,No,No,No
+BAG_024,Water Bottle,Plastic,None,Medium,No,No,No
+BAG_024,Power Bank,Metal,Lithium Alloy,High,No,Yes,Yes
+BAG_024,Laptop,Metal,Aluminum,High,No,Yes,Yes
+BAG_024,Water Bottle,Plastic,None,Low,No,No,No
+BAG_024,Keys,Metal,Stainless Steel,Medium,No,Yes,No
+BAG_024,Scissors,Metal,Steel,High,Yes,Yes,No
+BAG_025,Book,Paper,None,High,No,No,No
+BAG_025,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_025,Umbrella,Metal,Steel,High,No,Yes,No
+BAG_026,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_026,Book,Paper,None,High,No,No,No
+BAG_026,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_026,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_027,Watch,Metal,Stainless Steel,Low,No,Yes,No
+BAG_027,Book,Paper,None,High,No,No,No
+BAG_027,Phone,Metal,Aluminum,Medium,No,Yes,Yes
+BAG_028,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_028,Umbrella,Metal,Steel,Medium,No,Yes,No
+BAG_028,Keys,Metal,Stainless Steel,High,No,Yes,No
+BAG_028,Water Bottle,Plastic,None,Medium,No,No,No
+BAG_028,Keys,Metal,Stainless Steel,Low,No,Yes,No
+BAG_029,Knife,Metal,Steel,Medium,Yes,Yes,No
+BAG_029,Watch,Metal,Stainless Steel,High,No,Yes,No
+BAG_029,Keys,Metal,Stainless Steel,Low,No,Yes,No
+BAG_030,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_030,Power Bank,Metal,Lithium Alloy,Low,No,Yes,Yes
+BAG_030,Water Bottle,Plastic,None,Medium,No,No,No
+BAG_030,Book,Paper,None,Medium,No,No,No
+BAG_030,Book,Paper,None,Low,No,No,No
+BAG_030,Laptop,Metal,Aluminum,Low,No,Yes,Yes
